@@ -10,7 +10,6 @@ package main
 
 import (
     "log"
-    "testing"
     "time"
 
     "github.com/joshring/channelmgr"
@@ -61,7 +60,6 @@ package main
 
 import (
     "log"
-    "testing"
     "time"
 
     "github.com/joshring/channelmgr"
